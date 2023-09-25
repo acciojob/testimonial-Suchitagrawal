@@ -5,14 +5,13 @@
 	width: 500px;
 	height: 250px;
 }
+p{
+	text-align: right;
+}
 .text{
-
-	
 	background-color: white;
-
-	
 }
 sub{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
