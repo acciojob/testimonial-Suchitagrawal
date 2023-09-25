@@ -1,15 +1,16 @@
 /*  your css code here. If applicable */
-*{
+#main{
 	padding: 0px;
 	background-color: #f5f5f5;
-	width: px;
-	height: px;
+	width: 500px;
+	height: 250px;
 }
-h1{
-	padding: 15px;
-}
-p{
-	text-align: right;
+.text{
+
+	
+	background-color: white;
+
+	
 }
 sub{
 	text-align: right;
