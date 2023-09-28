@@ -8,9 +8,9 @@
 	flex-direction: column;
 }
 p{
-	text-align: left;
+	text-align: right;
 	font-style: italic;
-	margin: 10px;
+	
 }
 .text{
 	background-color: white;
